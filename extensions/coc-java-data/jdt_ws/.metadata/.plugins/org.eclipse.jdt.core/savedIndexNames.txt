@@ -1,0 +1,8 @@
+INDEX VERSION 1.132+/home/tran-con/.config/coc/extensions/coc-java-data/jdt_ws/.metadata/.plugins/org.eclipse.jdt.core
+514932810.index
+3897753810.index
+2118445353.index
+4289947415.index
+2949097923.index
+1865797976.index
+3842426239.index
