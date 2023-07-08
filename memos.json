@@ -4,52 +4,62 @@
       "https://raw.githubusercontent.com/streetsidesoftware/cspell/cspell@4.0.47/cspell.schema.json": {
         "etag": "W/\"dda8e50a20b52d78c76e7293c1589e91d4cf82ff77b399044817c15669bf60bc\"",
         "fileName": "632ac3e1fd54dc2b63103b70735edf70.schema.json",
-        "updateTime": 1684118544359
+        "updateTime": 1688131447242
       },
       "https://json.schemastore.org/tsconfig.json": {
-        "etag": "\"80f8c2f6f88d91:0\"",
+        "etag": "\"034bc39c6a2d91:0\"",
         "fileName": "a28507e42e8bfd5fba830538461d5db3.schema.json",
-        "updateTime": 1684749819877
+        "updateTime": 1688356058744
       },
       "http://json.schemastore.org/prettierrc": {
         "etag": "\"80e08ca9849bd81:0\"",
         "fileName": "b2ed7a7b6c79e58baf94e4ce160282de.schema.json",
-        "updateTime": 1684845120728
+        "updateTime": 1688429487666
       },
       "https://json.schemastore.org/package.json": {
-        "etag": "\"092b9eba35dd91:0\"",
+        "etag": "\"0cbc4ae1193d91:0\"",
         "fileName": "473f72b44c2905902dfbcc770aab7f7a.schema.json",
-        "updateTime": 1684845121295
+        "updateTime": 1688429488128
       },
       "https://json.schemastore.org/semantic-release.json": {
         "etag": "\"808cdec3a9a4d81:0\"",
         "fileName": "fbc95702ba6eddb3e2de4f52e31ca82a.schema.json",
-        "updateTime": 1684845122629
+        "updateTime": 1688429489062
       },
       "https://json.schemastore.org/ava.json": {
         "etag": "\"80cdbd40989d91:0\"",
         "fileName": "635f57185b22bce9d3a56c68f5da4ad7.schema.json",
-        "updateTime": 1684845122627
+        "updateTime": 1688429489052
       },
       "https://json.schemastore.org/prettierrc.json": {
         "etag": "\"80e08ca9849bd81:0\"",
         "fileName": "ea5ab10330a3ab77dfd6d00a735b0925.schema.json",
-        "updateTime": 1684845122628
+        "updateTime": 1688429489053
       },
       "https://json.schemastore.org/jscpd.json": {
         "etag": "\"80bec5ba1984d81:0\"",
         "fileName": "22bfc1ab1ff56aae62322f6ce45dab5a.schema.json",
-        "updateTime": 1684845122645
+        "updateTime": 1688429489069
       },
       "https://json.schemastore.org/eslintrc.json": {
         "etag": "\"09c10cf5f2bd91:0\"",
         "fileName": "c5064f140d4cfdbf4d6fbe68f68abbb1.schema.json",
-        "updateTime": 1684845122422
+        "updateTime": 1688429489060
       },
       "https://json.schemastore.org/stylelintrc.json": {
-        "etag": "\"80e08ca9849bd81:0\"",
+        "etag": "\"0d52dd6eabd91:0\"",
         "fileName": "000bfbdd14d2fb8ec5b0d59bec32ef98.schema.json",
-        "updateTime": 1684845123241
+        "updateTime": 1688429489034
+      },
+      "https://json.schemastore.org/babelrc.json": {
+        "etag": "\"0691efd316ad81:0\"",
+        "fileName": "ce32cad38c30a5a623bc5807f2a9141d.schema.json",
+        "updateTime": 1687705892519
+      },
+      "https://json.schemastore.org/nodemon.json": {
+        "etag": "\"ec9a4e6e181ad91:0\"",
+        "fileName": "bc390135086d44ba1bca60b6c9a80151.schema.json",
+        "updateTime": 1688175700041
       }
     }
   }
